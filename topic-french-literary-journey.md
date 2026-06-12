@@ -85,3 +85,7 @@ ISBN: `9787020008100`
 ## Related Guides
 
 - [历史与传记电子书：看帝国兴衰与人物抉择](./topic-history.md)
+
+## Lunarora Topic
+
+https://lunarora.com/topic/french-literary-journey

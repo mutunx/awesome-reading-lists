@@ -93,3 +93,7 @@ ISBN: `9787020120710`
 - [经济洞察与社会趋势：理解当代世界](./topic-economic-insight-and-social-trends.md)
 - [社会心理观察：人性、选择与关系](./topic-social-psychology-exploration.md)
 - [多维镜鉴：中国文学的现代审视与经典回响](./topic-modern-literary-china-perspectives.md)
+
+## Lunarora Topic
+
+https://lunarora.com/topic/social-realism-and-poverty

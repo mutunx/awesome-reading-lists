@@ -116,3 +116,7 @@ ISBN: `9787513316743`
 
 - [历史与传记电子书：看帝国兴衰与人物抉择](./topic-history.md)
 - [科幻电子书：宇宙想象与未来科技故事](./topic-sci-fi.md)
+
+## Lunarora Topic
+
+https://lunarora.com/topic/japanese-literary-odyssey

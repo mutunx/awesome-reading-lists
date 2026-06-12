@@ -98,3 +98,7 @@ ISBN: `9787020069323`
 
 - [历史与传记电子书：看帝国兴衰与人物抉择](./topic-history.md)
 - [心理学电子书推荐：情绪疗愈与人际洞察](./topic-psychology.md)
+
+## Lunarora Topic
+
+https://lunarora.com/topic/magic-realism-selection

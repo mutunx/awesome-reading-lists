@@ -102,3 +102,7 @@ ISBN: `9787513315371`
 - [走进文学巨匠的私密时刻](./topic-writers-intimate-portraits.md)
 - [魔幻现实主义文学精选](./topic-magic-realism-selection.md)
 - [自我成长电子书：习惯养成与心智升级指南](./topic-growth.md)
+
+## Lunarora Topic
+
+https://lunarora.com/topic/japanese-literary-gems

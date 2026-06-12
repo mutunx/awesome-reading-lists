@@ -121,3 +121,7 @@ ISBN: `9787213060403`
 - [心理学电子书推荐：情绪疗愈与人际洞察](./topic-psychology.md)
 - [自我成长电子书：习惯养成与心智升级指南](./topic-growth.md)
 - [历史与传记电子书：看帝国兴衰与人物抉择](./topic-history.md)
+
+## Lunarora Topic
+
+https://lunarora.com/topic/social-psychology-exploration

@@ -105,3 +105,7 @@ ISBN: `9787111422358`
 - [心理学电子书推荐：情绪疗愈与人际洞察](./topic-psychology.md)
 - [自我成长电子书：习惯养成与心智升级指南](./topic-growth.md)
 - [商业与管理电子书：战略、领导力与增长案例](./topic-business.md)
+
+## Lunarora Topic
+
+https://lunarora.com/topic/logical-thinking-training

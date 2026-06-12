@@ -121,3 +121,7 @@ ISBN: `9787208171336`
 - [历史与传记电子书：看帝国兴衰与人物抉择](./topic-history.md)
 - [商业与管理电子书：战略、领导力与增长案例](./topic-business.md)
 - [心理学电子书推荐：情绪疗愈与人际洞察](./topic-psychology.md)
+
+## Lunarora Topic
+
+https://lunarora.com/topic/economic-insight-and-social-trends

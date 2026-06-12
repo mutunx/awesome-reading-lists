@@ -117,3 +117,7 @@ ISBN: `9787513302043`
 - [心理学电子书推荐：情绪疗愈与人际洞察](./topic-psychology.md)
 - [历史与传记电子书：看帝国兴衰与人物抉择](./topic-history.md)
 - [科幻电子书：宇宙想象与未来科技故事](./topic-sci-fi.md)
+
+## Lunarora Topic
+
+https://lunarora.com/topic/japanese-mystery-books
