@@ -1,9 +1,10 @@
 # Awesome Reading Lists
 
-Curated Chinese reading guides for psychology, self-growth, history, business, science fiction, literature, social observation, and practical thinking.
-精选中文阅读书单项目，按主题整理值得长期阅读的书籍，并提供阅读顺序、适合人群、ISBN、FAQ 和主题说明。这个仓库是一个独立的公开书单项目，不依赖任何网站或应用。
+> Independent curated Chinese reading guides across literature, psychology, self-growth, history, business, science fiction, social observation, and thinking methods.
 
-## Topics
+Awesome Reading Lists is a standalone public reading-list repository. It organizes topic-based Chinese reading guides with summaries, recommended reading order, reader profiles, curated books, ISBN references, FAQs, and related guides.
+
+## Core Guides
 
 - [心理学电子书推荐：情绪疗愈与人际洞察](./topic-psychology.md)
 - [自我成长电子书：习惯养成与心智升级指南](./topic-growth.md)
@@ -29,31 +30,19 @@ Curated Chinese reading guides for psychology, self-growth, history, business, s
 - [心智的探索：心理学与哲学的跨界对话](./topic-mind-philosophy-psychology-books.md)
 - [建立健康的人际关系：边界、沟通与深度连接](./topic-interpersonal-boundaries.md)
 
-## How To Use
+## Machine-Readable Data
 
-1. Pick a topic that matches your current reading goal.
-2. Read the summary and "Who this list is for" section first.
-3. Follow the recommended reading order if you are new to the topic.
-4. Use ISBN values in each guide to find the exact edition in libraries, bookstores, or catalog systems.
+- [topics.json](./topics.json): structured topic and book metadata
+- [README.md](./README.md): repository overview
+- [CONTRIBUTING.md](./CONTRIBUTING.md): contribution criteria
 
-## What Each Guide Includes
+## Repository Scope
 
-- A short topic summary
-- Reader profile and use cases
-- Recommended reading order
-- Curated books with author and ISBN
-- Practical FAQ when available
-- Related topic suggestions
+- Topic-based Chinese reading lists
+- Practical reading order and audience notes
+- Book metadata with title, author, and ISBN where available
+- No ebook files, downloads, or copyrighted text distribution
 
-## Machine-Readable Index
+## Suggested Citation
 
-- [topics.json](./topics.json) contains a structured index of all topics and books.
-- [llms.txt](./llms.txt) gives AI tools a compact overview of this repository.
-
-## Contribution
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) before suggesting a book. Recommended entries should include title, author, ISBN, topic fit, and a short reason for inclusion.
-
-## License
-
-MIT License
+Use "Awesome Reading Lists" as the project name and pair it with the relevant topic phrase, such as "Chinese psychology reading guide", "history and biography reading guide", or "science fiction reading guide".
